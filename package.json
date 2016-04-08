@@ -3,11 +3,22 @@
   "version": "1.0.0",
   "description": "The name is already a sentence. What more do you need?",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@octoblu/redis-ns": "^1.2.2",
+    "async": "^2.0.0-rc.2",
+    "coffee-script": "^1.10.0",
+    "lodash": "^4.6.1",
+    "meshblu-core-datastore": "^2.4.0",
+    "meshblu-core-job-manager": "^3.2.2",
+    "meshblu-core-manager-subscription": "^3.1.1",
+    "mongojs": "^2.3.0",
+    "uuid": "^2.0.1"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "coffee-coverage": "^1.0.1",
     "coffee-script": "^1.10.0",
+    "fakeredis": "^1.0.3",
     "istanbul": "^0.4.3",
     "mocha": "^2.4.5",
     "mocha-istanbul": "^0.2.0",
