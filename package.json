@@ -1,6 +1,6 @@
 {
   "name": "meshblu-core-task-enqueue-jobs-for-subscriptions-configure-sent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The name is already a sentence. What more do you need?",
   "main": "index.js",
   "dependencies": {
